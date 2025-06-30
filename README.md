@@ -34,7 +34,7 @@
 </head>
 <body>
   <ul>
-    <li><a href="EXIDO/New folder/index1.html">صفحه ۱</a></li>
+    <li><a href="train.html">Click here ! </a></li>
 
   </ul>
 </body>
